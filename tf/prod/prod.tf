@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "sko"
+    organization = "sko-samir-tf"
     workspaces {
       name = "sko-cicd-prod"
     }
