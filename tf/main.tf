@@ -390,3 +390,4 @@ output "bxi_sdk_token_url" {
 output "bxi_company_id" {
   value = resource.pingone_environment.environment.id
 }
+
